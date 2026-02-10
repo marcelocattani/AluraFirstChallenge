@@ -1,4 +1,4 @@
-#Realización del primer challenge
+# Realización del primer challenge
 Este proyecto corresponde al desafio "Fundamentos de Python y Datos G9" 
 
 # Resumen
